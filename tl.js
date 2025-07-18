@@ -1,2 +1,2 @@
 const grup = "7669541269";
-const token  = "7534587260:AAFobKmu5sqOAEkB7_zbuYU3CdZ7noBU7AM";
+const token  = "8088630102:AAGbBQ3aLu0S7tIn370Sxe0DaMIgPoXjKt4";
